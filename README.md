@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-magnetica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mirada magnética](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-magnetica/) |
+| **Get License** | [Secure Licensing Rights for Mirada magnética](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-magnetica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your eyes pull me closer in the dark tonight
+> That magnetic fire, burning up the light
+> One look from you and I lose all my control
+> Mirada magnética, you're stealing my soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
