@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada magnética
+
+This log tracks the cryptographic history and versioning for the song **Mirada magnética** (mirada-magnetica).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:06:38.363034 | `v1` | `6d3635e0521168d18a2d325412520a9e38fe5e62ba390cb7036adf406ed61f61` | `2e63d1df547d3dcab3223cc635d613182b5d8bc87e38754a739fa5c4974b35eb` | `2026-06-20_mirada-magnetica-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

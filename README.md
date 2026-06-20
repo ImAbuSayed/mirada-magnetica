@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-magnetica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Mirada magnética](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-magnetica/) |
+| **Get License** | [License this song: Mirada magnética](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-magnetica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6d3635e0521168d18a2d325412520a9e38fe5e62ba390cb7036adf406ed61f61` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
